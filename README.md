@@ -5,8 +5,8 @@
 
 - [一、项目说明](#一项目框架)
 - [二、文件说明](#二文件说明)
-  - [2.1 getSru2Vec.py文件](#getStru2Vecpy文件)
-  - [2.2 embeddings_process.py文件](#embeddings_processpy文件)
+  - [2.1 embddings_process.py文件](#embddings_processpy文件)
+  - [2.2 getStru2Vec.py文件](#getStru2Vecpy文件)
   - [2.3 process_single_corpus.py文件](#process_single_corpuspy文件)
   - [2.4 python_structured.py文件](#python_structuredpy文件)
   - [2.5 sqlang_structured.py文件](#sqlang_structuredpy文件)
